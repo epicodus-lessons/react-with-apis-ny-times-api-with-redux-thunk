@@ -8,6 +8,8 @@ This is a completed example project that demonstrates how to use React, the Fetc
 
 You need to set up a `.env` file with your own New York Times key to run this project. Follow the instructions [in this lesson](https://www.learnhowtoprogram.com/react/react-with-apis/making-an-api-call-with-fetch) to get the exact details for getting an NY Times API key and setting up the `.env` file. 
 
+To install dependencies, run `$ npm run install` in the root directory of the project.
+
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ---
 
